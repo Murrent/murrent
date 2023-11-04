@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I love game development and physics simulations.
 <!--
 **Murrent/murrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=murrent&theme=tokyonight" alt="Image description">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murrent&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Image description">
